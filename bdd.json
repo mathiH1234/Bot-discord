@@ -1,0 +1,32 @@
+{
+    "stats": [
+        "En cours de dévellopement",
+        "Créer par Zebu_69"
+    ],
+    "warn": {
+        "792860673386217483": 1
+    },
+    "captcha": {
+        "697149407845417070": {
+            "value": 6840,
+            "statut": true
+        }
+    },
+    "coins-utilisateurs": {
+        "490446376325480451": 2,
+        "697149407845417070": 1
+    },
+    "level-utilisateurs": {
+        "490446376325480451": 0,
+        "697149407845417070": 0
+    },
+    "message-bienvenue": "salut au nouveau",
+    "statut-level": true,
+    "791325797658394684": {
+        "prefix": "!",
+        "test": "test"
+    },
+    "channel-events": "809816727189061632",
+    "participants-event": [],
+    "message-event": ""
+}
